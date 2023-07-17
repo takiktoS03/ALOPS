@@ -1,0 +1,7 @@
+﻿  funkcje.cpp
+  gauss.cpp
+C:\Users\KONKUTER\Desktop\vs ppk\2a403ee4-gr11-repo\projekt\alops\gauss.cpp(65,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\KONKUTER\Desktop\vs ppk\2a403ee4-gr11-repo\projekt\alops\gauss.cpp(70,4): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+  alops_proj.vcxproj -> C:\Users\KONKUTER\Desktop\vs ppk\2a403ee4-gr11-repo\projekt\alops_proj\x64\Debug\alops_proj.exe
